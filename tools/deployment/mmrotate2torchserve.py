@@ -109,4 +109,3 @@ if __name__ == '__main__':
 
     mmrotate2torchserve(args.config, args.checkpoint, args.output_folder,
                         args.model_name, args.model_version, args.force)
-    
